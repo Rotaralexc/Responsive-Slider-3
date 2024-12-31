@@ -2,7 +2,7 @@
 
   <h3 align="center">Animated Slider For Starbucks Coffee using HTML CSS and Javascript</h3>
   <br />
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/Rotaralexc/Responsive-Slider-3/blob/dd97eaaba6232b9d9b6a9cad7d7e938c0a155b0a/ResponsiveSlider3.png" alt="Project Banner">
   <br />
 
   <h3 align="center">DEMO</h3>
